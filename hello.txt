@@ -1,0 +1,4 @@
+print("Hello python")
+System.out.println("Hello Java"); 
+fmt.Println("Hello Golang")
+
